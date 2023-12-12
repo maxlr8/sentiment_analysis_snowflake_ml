@@ -1,0 +1,13 @@
+pip==22.3.1
+nltk
+isort
+black
+numpy==1.23.1
+joblib==1.1.1
+pandas==1.4.4
+config
+ipykernel
+python-dotenv
+cachetools==4.2.2
+scikit-learn==1.2.0
+snowflake-snowpark-python==0.11.0
